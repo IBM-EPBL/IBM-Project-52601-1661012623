@@ -49,6 +49,8 @@ PROJECT OBJECTIVES
 PROJECT STRUCTURE
 
 DATA COLLECTION
+- [x] body-20221104T082206Z-001.zip
+- [x] level-20221104T085020Z-001.zip
 
 MODEL BUILDING
 - [x] MODEL BUILDING-vehicle damage detection.
@@ -57,4 +59,32 @@ MODEL BUILDING
 - [x] level.h5
 
 APPLICATION BUILDING
-- [x] 
+- [x] Index.html
+- [x] Login.html
+- [x] Logout.html
+- [x] Prediction.html
+- [x] Register.html
+- [x] main.py
+- [x] model.level.py
+- [x] model.py
+
+TRAIN THE MODEL ON IBM
+- [x] IBM CLOUD -kavitha.pdf
+- [x] car damage detective.gif
+
+PROJECT PLANNING PHASE
+- [x] Milestone & Activity List (1).pdf
+- [x] Milestone & Activity List (2).pdf
+
+PROJECT DEVELOPMENT PHASE
+- [x] Sprint 1
+- [x] Sprint 2
+- [x] Sprint 3
+- [x] Sprint 4
+
+FINAL DELIVERABLES
+- [x] Demonstration_Video_Link
+- [x] Final_Code
+- [x] Project_Kit_Photographys
+- [x] Project_Report
+
