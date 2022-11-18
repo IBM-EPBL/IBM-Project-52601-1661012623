@@ -42,3 +42,15 @@ Project design Phase - 2
 - [x] Dataflow Diagram
 - [x] Functional Requirements
 
+PREREQUISITES
+
+PROJECT OBJECTIVES
+
+PROJECT STRUCTURE
+
+DATA COLLECTION
+
+MODEL BUILDING
+
+APPLICATION BUILDING
+- [x] 
