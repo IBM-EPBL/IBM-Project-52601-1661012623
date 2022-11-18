@@ -51,6 +51,10 @@ PROJECT STRUCTURE
 DATA COLLECTION
 
 MODEL BUILDING
+- [x] MODEL BUILDING-vehicle damage detection.
+- [x] Model building
+- [x] body.h5
+- [x] level.h5
 
 APPLICATION BUILDING
 - [x] 
